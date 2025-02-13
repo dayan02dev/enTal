@@ -1,0 +1,7 @@
+streamlit>=1.25.0
+google-generativeai>=0.1.0
+python-dotenv>=1.0.0
+pdf2image>=1.16.3
+
+# Pin openai to a version below 1.0.0
+openai==0.28.0
